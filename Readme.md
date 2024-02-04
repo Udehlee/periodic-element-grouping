@@ -17,7 +17,7 @@ To use this program, follow these steps:
 
 1. Clone the repository:
 
-- git clone https://github.com/yourusername/periodic-element-grouping.git
+- git clone https://github.com/Udehlee/periodic-element-grouping.git
 
 2. Navigate to  the repository:
 
